@@ -13,6 +13,8 @@
 		B53BD0B42C0CD7A100D68A00 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B53BD0B32C0CD7A100D68A00 /* Base */; };
 		B53BD0B62C0CD7A200D68A00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B53BD0B52C0CD7A200D68A00 /* Assets.xcassets */; };
 		B53BD0B92C0CD7A200D68A00 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B53BD0B82C0CD7A200D68A00 /* Base */; };
+		B53BD0C12C0CD88500D68A00 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53BD0C02C0CD88500D68A00 /* DetailsViewController.swift */; };
+		B53BD0C32C0CF26700D68A00 /* Simpson.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53BD0C22C0CF26700D68A00 /* Simpson.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		B53BD0B52C0CD7A200D68A00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B53BD0B82C0CD7A200D68A00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B53BD0BA2C0CD7A200D68A00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B53BD0C02C0CD88500D68A00 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		B53BD0C22C0CF26700D68A00 /* Simpson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simpson.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				B53BD0AC2C0CD7A100D68A00 /* AppDelegate.swift */,
 				B53BD0AE2C0CD7A100D68A00 /* SceneDelegate.swift */,
 				B53BD0B02C0CD7A100D68A00 /* ViewController.swift */,
+				B53BD0C02C0CD88500D68A00 /* DetailsViewController.swift */,
+				B53BD0C22C0CF26700D68A00 /* Simpson.swift */,
 				B53BD0B22C0CD7A100D68A00 /* Main.storyboard */,
 				B53BD0B52C0CD7A200D68A00 /* Assets.xcassets */,
 				B53BD0B72C0CD7A200D68A00 /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				B53BD0B12C0CD7A100D68A00 /* ViewController.swift in Sources */,
 				B53BD0AD2C0CD7A100D68A00 /* AppDelegate.swift in Sources */,
 				B53BD0AF2C0CD7A100D68A00 /* SceneDelegate.swift in Sources */,
+				B53BD0C12C0CD88500D68A00 /* DetailsViewController.swift in Sources */,
+				B53BD0C32C0CF26700D68A00 /* Simpson.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
